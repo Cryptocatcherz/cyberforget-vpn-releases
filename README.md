@@ -1,17 +1,18 @@
 # CyberForget VPN Shield — Downloads
 
-Latest version: **v1.1.78**
+Latest version: **v1.1.80**
 
 ## Windows
 
-[Download for Windows](https://github.com/Cryptocatcherz/cyberforget-vpn-releases/releases/download/v1.1.78/CyberForget.VPN.Shield.Setup.1.1.78.exe)
+[Download for Windows](https://github.com/Cryptocatcherz/cyberforget-vpn-releases/releases/download/v1.1.80/CyberForget.VPN.Shield.Setup.1.1.80.exe)
 
 | Detail | |
 |---|---|
-| File | `CyberForget.VPN.Shield.Setup.1.1.78.exe` |
-| Size | ~193 MB |
-| OS | Windows 10+ (64-bit) |
-| Type | NSIS Installer |
+| File | `CyberForget.VPN.Shield.Setup.1.1.80.exe` |
+| OS | Windows 10+ (64-bit / 32-bit) |
+| Type | NSIS Installer (per-machine) |
+
+Installs to `C:\Program Files\CyberForget VPN Shield`. Running the installer again will upgrade any older version automatically.
 
 ## macOS
 
